@@ -9,6 +9,8 @@ document.getElementById('siBtn').addEventListener('click', function() {
     // We hide the sad´s gif
     document.getElementById('burbujaTriste').style.display = 'none';
     document.getElementById('burbujaPinta').style.display = 'none';
+    document.getElementById('burbujaLlora').style.display = 'none';
+    document.getElementById('burbujaEnojada').style.display = 'none';
     // Now we show an happy gift
     document.getElementById('burbuja').style.display = 'block';
     // We hide buttons
